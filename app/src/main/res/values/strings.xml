@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="my_name">QAASIM, Muhammad Akorede</string>
+    <string name="slack_username">Slack Username: \t @Quwaysim</string>
+    <string name="phone_no">Phone Number: \t +2348169092228</string>
+    <string name="email">Email: \t qaasim405@gmail.com</string>
+    <string name="country">Country: \t Nigeria</string>
+    <string name="track">Track: \t Android</string>
+    <string name="image_description">Qaasim\'s Picture</string>
+</resources>
